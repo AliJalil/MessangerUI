@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="largeMargin">32dp</dimen>
+    <dimen name="mediumMargin">16dp</dimen>
+    <dimen name="imageRadius">50dp</dimen>
+    <dimen name="smallMargin">8dp</dimen>
+    <dimen name="name_font_size">30sp</dimen>
+    <dimen name="xLargeMargin">64dp</dimen>
+</resources>
