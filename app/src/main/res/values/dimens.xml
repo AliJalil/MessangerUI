@@ -4,6 +4,15 @@
     <dimen name="mediumMargin">16dp</dimen>
     <dimen name="imageRadius">50dp</dimen>
     <dimen name="smallMargin">8dp</dimen>
-    <dimen name="name_font_size">30sp</dimen>
+
     <dimen name="xLargeMargin">64dp</dimen>
+    <dimen name="largeRadius">50dp</dimen>
+    <dimen name="mediumRadius">25dp</dimen>
+
+    <dimen name="nameFontSize">30sp</dimen>
+    <dimen name="cardTitleFontSize">20sp</dimen>
+    <dimen name="contactFontSize">12sp</dimen>
+    <dimen name="messageFontSize">10sp</dimen>
+    <dimen name="elvationValue">4dp</dimen>
+
 </resources>

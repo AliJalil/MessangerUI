@@ -2,4 +2,15 @@
     <string name="app_name">MessangerUI</string>
     <string name="albert_canada">Albert, Canada</string>
     <string name="peter_smith">Peter Smith</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
+    <string name="more">More</string>
+    <string name="timeline">Timeline</string>
+    <string name="photo">Photo</string>
+    <string name="friends">Friends</string>
+    <string name="about">About</string>
+    <string name="write_something_to_peter">Write Something to Peter</string>
+    <string name="photos">Photos</string>
+    <string name="_780">780</string>
+
 </resources>
